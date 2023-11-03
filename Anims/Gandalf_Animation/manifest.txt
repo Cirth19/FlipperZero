@@ -1,0 +1,9 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: gandalf
+Min butthurt: 0
+Max butthurt: 12
+Min level: 2
+Max level: 3
+Weight: 8
